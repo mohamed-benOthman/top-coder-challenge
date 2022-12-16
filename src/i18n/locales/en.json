@@ -1,0 +1,21 @@
+{
+  "buttons": {
+    "overview": "Overview",
+    "start": "Start",
+    "login": "Login",
+    "start-now": "Start Now"
+  },
+
+  "login": {
+    "assessment": "PLAN Assessment",
+    "monitoring": "& Monitoring",
+    "companiesInfo": "Do you know your company's Info",
+    "firstService": "The first service will be provided free.",
+    "email-adress": "Your Email Address"
+  },
+
+  "home": {
+    "about": "About",
+    "about-description": "Do you know about your risks?\nWould you like to diagnose your\ninsurance contract for the right plan?"
+  }
+}

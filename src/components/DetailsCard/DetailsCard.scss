@@ -1,0 +1,26 @@
+@import '/src/sass/common/index';
+
+.details-card {
+  img {
+    height: 300px;
+  }
+
+  h3 {
+    text-align: left;
+  }
+  .title {
+    letter-spacing: 3.58px;
+    color: $purple-200;
+    font-style: italic;
+    font-size: 56px;
+  }
+
+  .description {
+    text-align: left;
+    font-size: 32px;
+    letter-spacing: 1.54px;
+    color: $black;
+    white-space: pre-line;
+    font-family: sans-serif;
+  }
+}

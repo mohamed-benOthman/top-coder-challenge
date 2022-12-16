@@ -1,0 +1,11 @@
+@import '/src/sass/common/index';
+
+.header {
+  height: 80px;
+  padding: 0px 150px 0px 150px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color:$white-primary;
+  
+}

@@ -1,0 +1,33 @@
+@import '/src/sass/common/index';
+
+.primary {
+  background-color: $purple-300;
+  padding: 10px 32px 10px 32px;
+  box-shadow: 5px 5px 0px #9edac4;
+  border-radius: 3px;
+  color: $white-primary;
+  cursor: pointer;
+  font-size: 14px;
+}
+
+.white {
+  background-color: $white-primary;
+  padding: 10px 32px 10px 32px;
+  border-radius: 3px;
+  color: $black;
+  cursor: pointer;
+  font-size: 14px;
+  font-weight: bold;
+}
+
+.success {
+  background-color: $pink;
+  padding-left: 32px;
+  padding-right: 32px;
+  border-radius: 3px;
+  color: $white-primary;
+  cursor: pointer;
+  font-size: 14px;
+  font-weight: bold;
+  height: 100%;
+}
